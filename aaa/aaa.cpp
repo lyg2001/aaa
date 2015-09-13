@@ -7,7 +7,9 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	aaa
+	a
+		bbb
+		cc
 	return 0;
 }
 
