@@ -7,7 +7,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	master1
+	master2
 	return 0;
 }
 
