@@ -7,7 +7,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-
+	qwerty
 	return 0;
 }
 
