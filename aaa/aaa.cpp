@@ -7,7 +7,8 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	qwerty
+	
+	master1
 	return 0;
 }
 
