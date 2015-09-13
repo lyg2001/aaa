@@ -8,11 +8,11 @@
 int _tmain(int argc, _TCHAR* argv[])
 {
 <<<<<<< HEAD
-	branch1
+	master2
 =======
-	
+	branch1
 	master1
->>>>>>> master
+>>>>>>> branch1
 	return 0;
 }
 
