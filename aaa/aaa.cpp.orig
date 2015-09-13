@@ -7,8 +7,12 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+<<<<<<< HEAD
 	branch1
+=======
+	
 	master1
+>>>>>>> master
 	return 0;
 }
 
